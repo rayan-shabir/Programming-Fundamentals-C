@@ -1,0 +1,5 @@
+Write a program that takes as input another C program and outputs the same program after rem
+oving all the comments from it. For simplicity assume that each comment will be of the type.
+Write a program that takes as input any text le. It convert each lin
+e of the le into two lines if that line has more than 10 characters.
+THATS ALL
